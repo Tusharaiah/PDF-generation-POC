@@ -1,0 +1,36 @@
+{
+  "name": "updated-migrations",
+  "version": "1.0.0",
+  "description": "A production-ready, optimized backend service to generate PDFs from HTML or URLs. Built with Express, Puppeteer, and a clean MVC architecture. Includes a singleton Chromium browser, a concurrency queue, LRU caching, validation, and robust error handling.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.1.0",
+    "helmet": "^8.1.0",
+    "lru-cache": "^10.4.3",
+    "multer": "^2.0.2",
+    "p-queue": "^8.1.1",
+    "pino": "^9.13.0",
+    "pino-http": "^10.5.0",
+    "pino-pretty": "^13.1.1",
+    "puppeteer": "^24.23.0",
+    "zod": "^4.1.11"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/multer": "^2.0.0",
+    "@types/node": "^24.6.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
+  }
+}

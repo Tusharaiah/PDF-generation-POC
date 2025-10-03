@@ -1,0 +1,749 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <title>HENRY: USER AGREEMENT</title>
+
+    <!--=====Internal-Stylesheet======-->
+    <style>
+      * {
+        font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+          "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+          "Helvetica Neue", sans-serif;
+        color: #000000;
+      }
+
+      body {
+        -webkit-text-size-adjust: none;
+        -ms-text-size-adjust: none;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      table {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+
+      table td {
+        border-collapse: collapse;
+      }
+
+      p {
+        margin: 0;
+        padding: 0;
+        margin-bottom: 0;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        color: #3c3d3a;
+        line-height: 100%;
+      }
+
+      a,
+      a:link {
+        color: #2a5db0;
+      }
+
+      body,
+      #body_style {
+        background: #ffffff;
+      }
+
+      a:visited {
+        color: blue;
+      }
+
+      a:focus {
+        color: blue;
+      }
+
+      a:hover {
+        color: blue;
+      }
+
+      .heading-main {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #131414;
+        margin-bottom: 10px;
+        text-align: center;
+        margin-bottom: 1.5rem;
+      }
+
+      .heading {
+        font-size: 1.125rem;
+        font-weight: 600;
+        color: #000000;
+        text-align: center;
+        margin-top: 1.875rem;
+        margin-bottom: 1.875rem;
+      }
+
+      .heading2 {
+        font-size: 1rem;
+        font-weight: 600;
+        color: #131414;
+        margin-bottom: 0;
+        text-align: center;
+      }
+
+      .heading3 {
+        font-size: 0.875rem;
+        font-weight: 600;
+        color: #000000;
+      }
+
+      .paragraph,
+      .heading-hint {
+        font-size: 0.875rem;
+        font-weight: normal;
+        line-height: 1.25rem;
+        color: #131414;
+        margin-bottom: 0.9375rem;
+      }
+
+      .heading-hint {
+        margin-bottom: 2rem;
+        text-align: center;
+      }
+
+      .call {
+        font-size: 0.875rem;
+        font-weight: normal;
+        line-height: normal;
+        color: #000000;
+        text-align: left;
+        margin-bottom: 0.9375rem;
+      }
+
+      ol,
+      ul {
+        padding-left: 0.9375rem;
+        margin-bottom: 0.9375rem;
+      }
+
+      ol li,
+      ul li {
+        font-size: 0.875rem;
+        font-weight: normal;
+        line-height: normal;
+        color: #000000;
+        text-align: left;
+        margin-bottom: 0.9375rem;
+        text-indent: 3.125rem;
+      }
+
+      ul {
+        list-style: none;
+      }
+
+      ul li {
+        text-indent: initial;
+        position: relative;
+        padding-left: 3.125rem;
+        position: relative;
+      }
+
+      ul li::before {
+        content: "";
+        position: absolute;
+        top: 5px;
+        left: 2.4rem;
+        width: 0.375rem;
+        height: 0.375rem;
+        background-color: #333333;
+        display: inline-block;
+      }
+
+      .hilight-bold {
+        font-size: 0.9375rem;
+        font-weight: 600;
+        line-height: normal;
+        color: #000000;
+        text-align: left;
+        margin-bottom: 3.75rem;
+      }
+
+      .spl {
+        font-weight: 600;
+        display: inline-block;
+        border-bottom: 0.0625rem solid #131414;
+        padding: 0 0.625rem;
+        font-size: 0.75rem;
+        line-height: 1rem;
+        font-family: "Inter", sans-serif;
+        font-style: normal;
+      }
+
+      .m0 {
+        margin-bottom: 0.25rem !important;
+      }
+
+      .nostyle {
+        list-style: none;
+        margin-top: 0;
+      }
+
+      .nomargin li {
+        margin-bottom: 0;
+      }
+
+      a,
+      a:link {
+        color: blue;
+        text-decoration: none;
+      }
+    </style>
+    <!--=====Internal-Stylesheet End======-->
+  </head>
+
+  <body
+    style="
+      background: #ffffff;
+      color: #000000;
+      font-family: Verdana, Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      margin: 0 auto;
+      padding: 0 10px;
+    "
+    alink="#FF0000"
+    link="#FF0000"
+    bgcolor="#ffffff"
+    text="#FFFFFF"
+    yahoo="fix"
+  >
+    <!--====Main Table Start Here======-->
+    <table
+      cellpadding="0"
+      cellspacing="0"
+      border="0"
+      bgcolor="#fff"
+      width="100%"
+      style="margin: 0 auto; background-color: #fff; padding: 5px"
+    >
+      <table
+        cellpadding="0"
+        cellspacing="0"
+        border="0"
+        style="margin: 0 auto; width: 100%; max-width: 700px"
+      >
+        <!--=====Top Header=====-->
+        <tr>
+          <td colspan="2">
+            <h2 class="heading-main">HENRY User Account Agreement</h2>
+            <p class="paragraph" id="p1" >
+              When you create a username and password to access content and/or
+              services on the HENRY Website or the HENRY mobile application(s)
+              (each, an “App” and the App and the Website, together with any
+              programs, tools, features, functionality, services, transactions,
+              and content provided through or in connection with the Website and
+              the Apps, the “Platform”), you are creating a unique user account
+              (“User Account”) to access the Platform, and entering into a
+              direct contractual relationship with HENRY, Inc., and its
+              subsidiaries, including, but not limited to Way Maker Real Estate
+              Partners, LLC (collectively, “HENRY”). “Website” means the
+              HENRY.com website, and any others through which HENRY offers
+              services.
+            </p>
+            <p class="paragraph" id="p2" >
+              By creating a User Account and accessing the Platform, you agree
+              to follow and be bound by this Agreement. Customers of HENRY who
+              have been approved for a brokerage account with Way Maker Real
+              Estate Partners LLC, are granted additional levels of access to
+              the Platform and their relationship with HENRY is governed by
+              additional agreements and terms of use, such as the relevant
+              Customer Agreement.
+            </p>
+
+            <p class="paragraph"  id="p3"  >
+              User Account Security. In order to set up and access your
+              User Account, you will be required to create or will be given
+              security details, including a User Account username and password.
+              You are solely responsible for monitoring and safeguarding your
+              User Account and access to your User Account. You are solely
+              responsible for keeping your User Account username, password, and
+              other User Account details safe, and for the safety and security
+              of any electronic devices through which you access your User
+              Account (which may include your phone, tablet, computer, or any
+              similar device) (a “Device”). This includes taking all reasonable
+              steps to avoid the loss, theft, or misuse of such Device, for
+              instance engaging available protections provided by your Device,
+              such as passcodes, biometric login (such as via a fingerprint or a
+              face-scan), or similar, and keeping your User Account username,
+              password, and other User Account details safe and secret at all
+              times. Any loss or compromise of your Device, your email account,
+              your User Account username or password, or other security details,
+              may result in unauthorized access to your User Account by third
+              parties.
+            </p>
+            <p class="paragraph" id="p4" >
+                You agree to notify HENRY immediately and in any event within 24
+                hours if you become aware of: (i) any loss, theft, or
+                unauthorized use of your User Account, User Account username or
+                password; (ii) any receipt by you of a security notification
+                concerning your User Account that notifies you of an event or
+                action that you do not recognize; or (iii) any other
+                unauthorized use or access of your User Account. Each of the
+                events described in (i)-(iii) of this clause will be a
+                “Potential Fraudulent Event.”
+            </p>
+            <p class="paragraph" id="p5" >
+              Upon request by HENRY, you agree to report any Potential
+              Fraudulent Event promptly to legal authorities and provide HENRY a
+              copy of any report prepared by such legal authorities. You agree
+              to cooperate fully with the legal authorities and HENRY in any
+              investigation of any Potential Fraudulent Event, and to complete
+              any required affidavits promptly, accurately, and thoroughly. You
+              agree to allow HENRY access to your Device, and your network in
+              connection with HENRY’s investigation of any Potential Fraudulent
+              Event. You agree to indemnify and holdHENRY, its Affiliates, and
+              their respective officers, directors, and employees harmless from
+              and against any Losses arising out of or relating to any Potential
+              Fraudulent Event.
+            </p>
+            <p class="paragraph" id="p6" >
+              Platform Content. We may provide or make available to you
+              certain content or information which may include news, articles,
+              commentary, research, links to outside websites, and other
+              information accessible through the Platform (such content or
+              information, “Content”). Content may be prepared by third parties
+              and independent external providers not affiliated with HENRY
+              (“Providers”). If we provide or make Content available to you,
+              this does not grant you any rights over or in that Content. You
+              may not and agree that you will not reproduce, sell, market,
+              distribute, or otherwise commercially use the Content in any
+              matter. HENRY may terminate your access to the Content at any
+              time.
+            </p>
+            <p class="paragraph" id="p7" >
+              Content is provided or made available to you on an “as is” and on
+              an “as available” basis and should not be considered as any form
+              of advice or recommendation for you or your User Account, or a
+              recommendation by HENRY to buy or sell any securities or to engage
+              in any investment strategy. Your use of any Content is at your own
+              risk. We do not make any warranty of any kind, express or implied,
+              regarding the Content or the accuracy, completeness, timeliness,
+              or otherwise of the Content.
+            </p>
+            <p class="paragraph" id="p8" >
+              HENRY does not produce or provide first-party research providing
+              specific investment strategies such as buy, sell, or hold
+              recommendations, first-party ratings, or price targets. To the
+              extent any Content is prepared by HENRY or its associated persons
+              and made available via that Platform or by other means, that
+              Content is intended for informational and educational purposes
+              only and does not constitute either research or a recommendation
+              to enter into any securities transactions or to engage in any
+              investment strategies.
+            </p>
+            <p class="paragraph" id="p9" >
+              Any views expressed in any third-party Content are not the views
+              of HENRY. HENRY is not responsible for any third-party website or
+              anything contained on or connected with any third-party website.
+            </p>
+            <p class="paragraph" id="p10" >
+              Restrictions on Use of Services. You understand that HENRY
+              may at any time, at its sole discretion and without prior notice
+              to you: (i) prohibit or restrict your access to the use of the
+              Platform or related services; (ii) restrict your ability to
+              deposit or withdrawal funds, or trade securities in your User
+              Account, or (iii) terminate your User Account. The closing of your
+              User Account will not affect the rights or obligations of either
+              party incurred prior to the date your User Account is closed.
+            </p>
+            <p class="paragraph" id="p11" >
+              Disclosure of Information. You agree and understand that
+              all disclosures of your non-public personal information shall be
+              made in accordance with the terms of this Agreement or the HENRY
+              Privacy Policy (available in the Disclosure Library), as
+              applicable. You agree that your consent to sharing certain types
+              of non-public personal information will remain in effect until you
+              revoke such consent by updating your settings.
+            </p>
+            <p class="paragraph" id="p12" >
+              In addition, you understand and agree that HENRY may disclose
+              information about your Account and your related activities to
+              third parties under the following circumstances: (i) As necessary
+              to complete your Payment transactions; (ii) to investigate any
+              complaint, disputed transaction, transaction inquiry, or request
+              you make or as necessary to investigate potential fraud, money
+              laundering, or other misuse related to your Account; (iii) to
+              respond to requests from credit bureaus, creditors, or other third
+              parties for account-related information, to the extent such
+              inquiries are necessary for processing your transactions or are
+              usual and customary in the course of servicing similar products or
+              accounts; (iv) as necessary to comply with any applicable law,
+              regulation, government, or court order or subpoena; or (v) in
+              accordance with your written permission or as otherwise permitted
+              under the
+              <a
+                class="link"
+                target="_blank"
+                href="https://ats-public-preprod.s3.us-west-2.amazonaws.com/assets/documents/terms/Privacy+Policy+Agreement.docx.pdf"
+              >
+                HENRY Privacy Policy
+              </a>
+              .
+            </p>
+            <p class="paragraph" id="p13" >
+              Waiver; Limitation of Liability; Indemnification. You agree
+              that your use of the Platform or any other service provided by
+              HENRY or its Affiliates is at your sole risk. The HENRY services
+              (including the Platform, the provision of Market Data, Content, or
+              any other information provided by HENRY, any of its Affiliates, or
+              any third-party content provider or market data provider) are
+              provided on an “as is,” “as available” basis without warranties of
+              any kind, either express or implied, statutory (including without
+              limitation, timeliness, truthfulness, sequence, completeness,
+              accuracy, freedom from interruption), implied warranties arising
+              from trade usage, course of dealing, course of performance, or the
+              implied warranties of merchantability or fitness for a particular
+              purpose or application, other than those warranties which are
+              implied by and incapable of exclusion, restriction or modification
+              under the laws applicable to this Agreement.
+            </p>
+            <p class="paragraph" id="p14" >
+              Although considerable effort is expended to make the Platform and
+              other operational and communications channels available around the
+              clock, HENRY does not warrant that these channels will be
+              available and error free every minute of the day. You agree that
+              HENRY will not be responsible for temporary interruptions in
+              service due to maintenance, Platform changes, or failures, nor
+              shall HENRY be liable for extended interruptions due to failures
+              beyond our control, including but not limited to the failure of
+              interconnecting and operating systems, computer viruses, forces of
+              nature (including earthquakes and storms), labor disputes and
+              armed conflicts.
+            </p>
+            <p class="paragraph" id="p15" >
+              EXCEPT AS OTHERWISE EXPRESSLY PROVIDED IN THIS AGREEMENT, YOU
+              UNDERSTAND AND AGREE THAT HENRY, ITS AFFILIATES, THEIR RESPECTIVE
+              OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS, AND THE PROVIDERS
+              (COLLECTIVELY THE “ HENRY PARTIES”) WILL NOT BE LIABLE TO YOU OR
+              TO THIRD PARTIES FOR ANY LOSSES YOU INCUR (MEANING CLAIMS,
+              DAMAGES, ACTIONS, DEMANDS, INVESTMENT LOSSES, OR OTHER LOSSES, AS
+              WELL AS ANY COSTS, CHARGES, ATTORNEYS’ FEES, OR OTHER FEES OR
+              EXPENSES) BY REASON OF DELAYS OR INTERRUPTIONS OF THE SERVICES OR
+              TRANSMISSIONS, OR FAILURES OF PERFORMANCE OF THEIR RESPECTIVE
+              SYSTEMS, REGARDLESS OF CAUSE, INCLUDING THOSE CAUSED BY
+              GOVERNMENTAL OR REGULATORY ACTION, THE ACTION OF ANY EXCHANGE OR
+              OTHER SELF REGULATORY ORGANIZATION, OR THOSE CAUSED BY SOFTWARE OR
+              HARDWARE MALFUNCTIONS.
+            </p>
+            <p class="paragraph" id="p16" >
+              Except as otherwise provided by law, HENRY and any of its
+              affiliates or respective partners, officers, directors, employees
+              or agents (collectively, “Indemnified Parties”) shall have no
+              liability for, and you agree to indemnify, defend and hold
+              harmless the Indemnified Parties from all Losses that result from:
+              (i) any noncompliance by you with any of the terms and conditions
+              of this Agreement; (ii) any third party actions related to your
+              receipt and use of any Market Data, Content, market analysis,
+              other third-party content, or other such information obtained on
+              the Platform, whether authorized or unauthorized under this
+              Agreement; (iii) any third- party actions related to your use of
+              the Platform; (iv) your or your agent’s misrepresentation or
+              alleged misrepresentation, or act or omission; (v) Indemnified
+              Parties following your or your agent’s directions or instructions,
+              or failing to follow your or your agent’s unlawful or unreasonable
+              directions or instructions; (vi) any activities or services of the
+              Indemnified Parties in connection with your Account (including any
+              technology services, reporting, trading, research or capital
+              introduction services); or (vii) the failure by any person not
+              controlled by the Indemnified Parties and their affiliates to
+              perform any obligations to you. Further, if you authorize or allow
+              third parties to gain access to HENRY’s services, including your
+              Account, you will indemnify, defend and hold harmless the
+              Indemnified Parties against any Losses arising out of claims or
+              suits by such third parties based upon or relating to such access
+              and use. HENRY does not warrant against loss of use or any direct,
+              indirect or consequential damages or Losses to you caused by your
+              assent, expressed or implied, to a third party accessing your
+              Account or information, including access provided through any
+              other third-party systems or sites. The indemnity provided for in
+              this section shall not be construed as limiting your ability to
+              bring a claim against the Indemnified Parties or receive an award
+              or judgment from HENRY that you would be entitled to bring or
+              receive under any applicable laws.
+            </p>
+            <p class="paragraph" id="p17" >
+              You consent to the use of automated systems or service bureaus by
+              HENRY and its respective affiliates in conjunction with your
+              Account, including automated order entry and execution, record
+              keeping, reporting and account reconciliation and risk management
+              systems (collectively “Automated Systems”). You understand that
+              the use of Automated Systems entails risks, such as interruption
+              or delays of service, errors or omissions in the information
+              provided, system failure, and errors in the design or functioning
+              of such Automated Systems (collectively, a “System Failure”) that
+              could cause substantial damage, expense, or liability to you. You
+              understand and agree that Indemnified Parties will have no
+              liability whatsoever for any of your Losses arising out of or
+              relating to a System Failure.
+            </p>
+            <p class="paragraph" id="p18"  >
+              You also agree that Indemnified Parties will have no
+              responsibility or liability to you in connection with the
+              performance or non-performance by any exchange, clearing
+              organization, market data provider, or other third party
+              (including other broker-dealers and clearing firms, and banks) or
+              any of their respective agents or affiliates, of its or their
+              obligations relative to any securities. You agree that Indemnified
+              Parties will have no liability, to you or to third parties, or
+              responsibility whatsoever for: any Losses (including special,
+              indirect, incidental, consequential, punitive or exemplary
+              (including lost profits, trading losses and damages)) resulting
+              from a cause over which Indemnified Parties do not have direct
+              control, including the failure of mechanical equipment,
+              unauthorized access, theft, operator errors, government
+              restrictions,force majeure (as defined in this Agreement), market
+              data availability or quality, exchange rulings or suspension of
+              trading.
+            </p>
+            <p class="paragraph" id="p19" >
+              Electronic Signatures; Modifications to the Agreement. You
+              agree to transact business with HENRY electronically. By
+              submitting your information to create a User Account, you
+              acknowledge and agree that clicking or tapping the “Sign Up,”
+              “Continue,” “Submit” or similar, button to effect such submission
+              is an electronic signature and is valid evidence of your consent
+              to be legally bound by this Agreement and such subsequent terms as
+              may govern the use of HENRY’s services. The use of an electronic
+              version of any document fully satisfies any requirement that the
+              document be provided to you in writing. You accept notice by
+              electronic means as reasonable and proper notice, for the purpose
+              of any and all laws, rules and regulations. You acknowledge and
+              agree that HENRY may modify this Agreement from time to time and
+              you agree to consult the Website from time to time for the most
+              up-to-date Agreement. The electronically stored copy of this
+              Agreement is considered to be the true, complete, valid, authentic
+              and enforceable record of the Agreement, admissible in judicial or
+              administrative proceedings to the same extent as if the documents
+              and records were originally generated and maintained in printed
+              form. You agree to not contest the admissibility or enforceability
+              of HENRY’s electronically stored copy of the Agreement.
+            </p>
+            <p class="paragraph" id="p20" >
+              Phone Calls. You agree that, by providing information HENRY
+              requests, opening or applying to open, or maintaining a User
+              Account, or by downloading any App, HENRY and its third-party
+              service providers may contact you either (i) via mail, phone, or
+              email, or other details you have provided, or (ii) via any other
+              form of electronic or other communications facility available via
+              the Platform or a third party service provider such as “chat”,
+              “voice”, or messaging functionality.
+            </p>
+            <p class="paragraph" id="p21" >
+              Specifically, if you provide us with a phone number: (a) you
+              represent and warrant that the number you provide is your phone
+              number, and you will promptly notify us if that changes, and (b)
+              you consent to receive calls (including text messages) made to
+              that phone number that may be prerecorded or completed with an
+              automatic telephone dialing system (automated calls) for purposes
+              including but not limited to providing account-related
+              communications (including security alerts), investigating or
+              preventing fraud, or collecting amounts owed to HENRY. We may
+              share your number with third parties that provide services to us
+              in connection with any of the foregoing purposes, including but
+              not limited to debt collectors. You understand that message,
+              telephone minute and data rates may apply for calls made to a
+              mobile phone number. You may opt out at any time from receiving
+              these types of calls orally or in writing to support@HENRY.com.
+              Please note, even if you opt out, we may still make other calls as
+              permitted by law.
+            </p>
+
+            <p class="paragraph" id="p22" >
+              Consent to Electronic Delivery of Documents.
+            </p>
+            <p class="paragraph" id="p23" >
+              
+                1. Consent. By agreeing to electronic delivery, you are giving
+                your informed consent to electronic delivery of all Account
+                Documents. “Account Documents”</b
+              >
+              include notices, disclosures, current and future account
+              statements, regulatory and shareholder communications (such as
+              prospectuses, proxy solicitations, and privacy notices), trade
+              confirmations, tax-relateddocuments, and any other information,
+              documents, data, and records regarding your Account, this
+              Agreement (including amendments to this Agreement), and the
+              agreements and disclosures governing the services delivered or
+              provided to you by HENRY, the issuers of the securities or other
+              property in which you invest, and any other parties. You agree
+              that you can access, view, download, save, and print any Account
+              Documents you receive via electronic delivery for your records.
+            </p>
+            <p class="paragraph" id="p24" >
+              2. Electronic Delivery System. You acknowledge that HENRY’s
+              primary methods of communication with you include (A) posting
+              information on the Website, (B) providing information via the App,
+              (C) sending email(s) to your email address of record, and, to the
+              extent required by law, (D) providing you with notice(s) that will
+              direct you to the Platform where you can read and print such
+              information. Unless otherwise required by law, HENRY reserves the
+              right to post Account Documents on the Website without providing
+              notice to you. Further, HENRY reserves the right to send Account
+              Documents to your postal or email address of record, or via the
+              Platform. You agree that all Account Documents provided to you in
+              any of the foregoing manners are considered delivered to you
+              personally when sent or posted by HENRY, whether you receive it or
+              not.
+            </p>
+            <p class="paragraph" id="p25" >
+              All email notifications regarding Account Documents will be sent
+              to your e-mail address of record. You agree to maintain the email
+              address that you have provided HENRY until you provide HENRY with
+              a new one. You understand that email messages may fail to transmit
+              promptly or properly, including being delivered to SPAM folders.
+              You further understand that it is your sole responsibility to
+              ensure that any emails from HENRY or its Affiliates are not marked
+              as SPAM. Regardless of whether or not you receive an email
+              notification, you agree to check the Website regularly to avoid
+              missing any information, including amendments or supplements to
+              this Agreement, or time-sensitive or otherwise important
+              communications. If you authorize someone else to access the email
+              account you have provided HENRY, you agree to tell them to share
+              the Account Documents with you promptly, and you accept the risk
+              that they will see your sensitive information. You understand that
+              if you use a work email address or computing or communications
+              device, your employer or other employees may have access to the
+              Account Documents.
+            </p>
+            <p class="paragraph" id="p26" >
+              Additionally, you acknowledge that the Internet is not a secure
+              network and agree that you will not send any confidential
+              information, including Account numbers or passwords, in any
+              unencrypted emails. You also understand that communications
+              transmitted over the Internet may be accessed by unauthorized or
+              unintended third parties and agree to hold HENRY, its Affiliates,
+              and HENRY and its Affiliates’ respective officers and employees
+              harmless for any such access regardless of the cause.
+            </p>
+            <p class="paragraph" id="p27" >
+              You agree to promptly and carefully review all Account Documents
+              when they are delivered and notify HENRY Financial in writing
+              within five days of delivery if you object to the information
+              provided (or other such time specified therein). If you fail to
+              object in writing within such time, HENRY is entitled to treat
+              such information as accurate and conclusive. You will contact
+              HENRY to report any problems with accessing the Account Documents.
+            </p>
+            <p class="paragraph" id="p28" >
+              3. Costs. Potential costs associated with electronic
+              delivery of Account Documents may include charges from Internet
+              access providers and telephone companies, and you agree to bear
+              these costs. HENRY Financial will not charge you additional online
+              access fees for receiving electronic delivery of Account
+              Documents.
+            </p>
+
+            <p class="paragraph" id="p29" >
+               4. Archival. Upon your request, you may obtain electronic
+              copies of account statements and trade confirmations, subject to
+              availability.
+            </p>
+            <br/>
+            <p class="paragraph" id="p30" >
+              5. Revocation of Consent. Consent to electronic delivery of
+              documents is required to establish and maintain an Account with
+              HENRY Financial. Subject to the terms of this Agreement, you may
+              revoke or restrict your consent to electronic delivery of Account
+              Documents at any time by notifying HENRY Financial in writing of
+              your intention to do so. However, you understand that if you
+              revoke or restrict your consent to electronic delivery of Account
+              Documents, HENRY Financial has the right to restrict and/or close
+              your Account, and terminate your access to HENRY’s services. HENRY
+              may elect to deliver Account Documents by other means, including
+              paper delivery via postal mail, which will not revoke or otherwise
+              affect your consent. You understand that neither your revocation
+              or restriction of consent nor HENRY Financial’s delivery of paper
+              copies of Account Documents will affect the legal effectiveness or
+              validity of any electronic communication provided while your
+              consent was in effect.
+            </p>
+            <p class="paragraph" id="p31" >
+              6. Duration of Consent. Your consent to receive electronic
+              delivery of Account Documents will be effective immediately and
+              will remain in effect unless and until either you or HENRY
+              Financial revokes it. You understand that it may take up to three
+              Business Days to process a revocation of consent to electronic
+              delivery, and that you may receive electronic notifications until
+              such consent is processed.
+            </p>
+            <p class="paragraph" id="p32" >
+              7. Hardware and Software Requirements. You understand that
+              in order to receive electronic deliveries, you must have access to
+              a computer or Mobile Device with Internet access, a valid e-mail
+              address, and the ability to download such applications as HENRY
+              Financial may specify and to which you have access. You also
+              understand that if you wish to download, print, or save any
+              information you wish to retain, you must have access to a printer
+              or other device in order to do so.
+            </p>
+            <p class="paragraph" id="p33" >
+              8. Consent and Representations. You hereby agree that you
+              have carefully read the above information regarding informed
+              consent to electronic delivery and fully understand the
+              implications thereof. Additionally, you hereby agree to all
+              conditions outlined above with respect to electronic delivery of
+              any Account Document. You will maintain a valid email address and
+              continue to have access to the Internet. If your email address
+              changes, you agree to immediately notify HENRY Financial of your
+              new email address in writing.
+            </p>
+            <p class="paragraph" id="p34" >
+              Recording and Monitoring of Communications. You understand
+              and agree that HENRY may record and monitor any telephone or
+              electronic communications with you. Unless otherwise agreed in
+              writing in advance, HENRY does not consent to the recording of
+              telephoneconversations by any third party or by you. You
+              acknowledge and understand that not all telephone or electronic
+              communications are recorded by HENRY, and HENRY does not guarantee
+              that recordings of any particular telephone or electronic
+              communications will be retained or capable of being retrieved.
+            </p>
+            <p class="paragraph" id="p35" >
+              Governing Law. This Agreement and all transactions made in
+              your User Account shall be governed by the laws of the State of
+              Delaware (regardless of the choice of law rules thereof), except
+              to the extent governed by the federal securities laws, FINRA
+              Rules, and the regulations, customs and usage of the exchanges or
+              market (and its clearing house) on which transactions are
+              executed.
+            </p>
+
+            <p class="paragraph" id="p36" >
+              <br />
+              IP Address: {{ipAddress}} <br />
+              Time: {{currentDateAndTime}}
+            </p>
+            <br />
+          </td>
+        </tr>
+
+        <!--=====Thank you massege End========-->
+      </table>
+    </table>
+    <!--====Main Table End Here======-->
+  </body>
+</html>

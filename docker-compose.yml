@@ -1,0 +1,26 @@
+version: '3.9'
+services:
+  pdf-service:
+    build: .
+    image: pdf-service:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - QUEUE_CONCURRENCY=4
+      - CACHE_MAX_ENTRIES=50
+      - CACHE_TTL_MS=300000
+      - PUPPETEER_HEADLESS=true
+      - RENDER_TIMEOUT_MS=30000
+      - RATE_LIMIT_WINDOW_MS=60000
+      - RATE_LIMIT_MAX=60
+      - LOG_LEVEL=info
+    volumes:
+      - uploads:/app/uploads
+    restart: unless-stopped
+
+volumes:
+  uploads:
+
+
